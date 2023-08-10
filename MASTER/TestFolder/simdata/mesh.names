@@ -1,0 +1,30 @@
+! ----- names for bodies -----
+$ Q1_coupler_wire = 1
+$ Q1_readout_wire = 3
+$ Q1_pad_top = 5
+$ Q1_pad_bot = 7
+$ Q1_coupler_connector_pad = 9
+$ Q1_readout_connector_pad = 11
+$ via1_layer1_rectangle = 13
+$ ground_plane_(layer 1) = 15
+$ via1_layer2_rectangle = 17
+$ via1_layer3_rectangle = 19
+$ ground_plane_(layer 3) = 21
+$ dielectric_(layer 4) = 23
+$ dielectric_(layer 5) = 25
+$ vacuum_box = 27
+! ----- names for boundaries -----
+$ Q1_coupler_wire_sfs = 2
+$ Q1_readout_wire_sfs = 4
+$ Q1_pad_top_sfs = 6
+$ Q1_pad_bot_sfs = 8
+$ Q1_coupler_connector_pad_sfs = 10
+$ Q1_readout_connector_pad_sfs = 12
+$ via1_layer1_rectangle_sfs = 14
+$ ground_plane_(layer 1)_sfs = 16
+$ via1_layer2_rectangle_sfs = 18
+$ via1_layer3_rectangle_sfs = 20
+$ ground_plane_(layer 3)_sfs = 22
+$ dielectric_(layer 4)_sfs = 24
+$ dielectric_(layer 5)_sfs = 26
+$ vacuum_box_sfs = 28

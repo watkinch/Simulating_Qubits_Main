@@ -1,0 +1,4 @@
+Number of bones:  206
+path
+poly
+junction

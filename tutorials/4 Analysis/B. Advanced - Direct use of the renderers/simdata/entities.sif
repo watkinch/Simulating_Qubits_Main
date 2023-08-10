@@ -1,0 +1,90 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = Q1_readout_wire
+End
+
+Body 2
+  Name = Q1_coupler1_wire
+End
+
+Body 3
+  Name = Q1_coupler2_wire
+End
+
+Body 4
+  Name = Q1_pad_top
+End
+
+Body 5
+  Name = Q1_pad_bot
+End
+
+Body 6
+  Name = Q1_readout_connector_pad
+End
+
+Body 7
+  Name = Q1_coupler1_connector_pad
+End
+
+Body 8
+  Name = Q1_coupler2_connector_pad
+End
+
+Body 9
+  Name = ground_plane_(layer 1)
+End
+
+Body 10
+  Name = dielectric_(layer 3)
+End
+
+Body 11
+  Name = vacuum_box
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = Q1_readout_wire_sfs
+End
+
+Boundary Condition 2
+  Name = Q1_coupler1_wire_sfs
+End
+
+Boundary Condition 3
+  Name = Q1_coupler2_wire_sfs
+End
+
+Boundary Condition 4
+  Name = Q1_pad_top_sfs
+End
+
+Boundary Condition 5
+  Name = Q1_pad_bot_sfs
+End
+
+Boundary Condition 6
+  Name = Q1_readout_connector_pad_sfs
+End
+
+Boundary Condition 7
+  Name = Q1_coupler1_connector_pad_sfs
+End
+
+Boundary Condition 8
+  Name = Q1_coupler2_connector_pad_sfs
+End
+
+Boundary Condition 9
+  Name = ground_plane_(layer 1)_sfs
+End
+
+Boundary Condition 10
+  Name = dielectric_(layer 3)_sfs
+End
+
+Boundary Condition 11
+  Name = vacuum_box_sfs
+End
+
